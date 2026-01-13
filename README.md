@@ -1,6 +1,6 @@
-#Hello World. 
+# Hello World. 
 
 I am Jacky Li.
-I do mathethematics for computer science and robotics. 
+I work on mathethematics for computer science and robotics. 
 let’s learn together!
 
