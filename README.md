@@ -1,7 +1,9 @@
-## Hello World. 
+## "Hello World!"
 
-I am Jacky Li.
+I am Jacky Li. 
 
-I work on applied mathethematics for computer science and robotics. 
+I study applied mathematics and computer science.
+
+I am working on machine learning algorithm and robotics.
 
 let’s learn together!
