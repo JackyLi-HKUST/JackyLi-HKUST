@@ -1,9 +1,7 @@
 ## "Hello World!"
 
-I am Jacky Li. 
+I’m Jacky Li — an Applied Mathematics & Computer Science student at HKUST
 
-I study applied mathematics and computer science.
+My work sits at the intersection of machine learning, control theory, and robotics.
 
-I am working on machine learning algorithm and robotics.
-
-let’s learn together!
+Part of NaviHK Tech — building AI solutions.
