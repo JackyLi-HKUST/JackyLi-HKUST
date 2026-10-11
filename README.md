@@ -6,4 +6,4 @@ My research focuses on machine learning, learning-based control, multi-agent sys
 
 Part of NaviHK Tech — building AI solutions.
 
-https://jackyli-hkust.github.io/
+https://jackyli-hkust.github.io
